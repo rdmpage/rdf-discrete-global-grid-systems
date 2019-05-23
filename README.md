@@ -14,7 +14,7 @@ SNYDER, J. P. (1992). An Equal-Area Map Projection For Polyhedral Globes. Cartog
 
 [DGGRID](https://discreteglobalgrids.org/software/)
 
-![isea3h5](https://github.com/rdmpage/rdf-discrete-global-grid-systems/raw/master/images/grid.jpg)
+![isea3h5](https://github.com/rdmpage/rdf-discrete-global-grid-systems/raw/master/images/grid.png)
 
 [dggridR: Discrete Global Grids](https://CRAN.R-project.org/package=dggridR)
 
