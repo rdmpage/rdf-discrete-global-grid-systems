@@ -1,6 +1,6 @@
-# rdf-discrete-global-grid-systems
+# RDF and discrete global grid systems
 
-Notes on discrete global grid systems and RDF
+Notes on discrete global grid systems, identifiers, and RDF.
 
 ## DGGS
 
