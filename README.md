@@ -12,7 +12,15 @@ SNYDER, J. P. (1992). An Equal-Area Map Projection For Polyhedral Globes. Cartog
 
 ## Code
 
+[DGGRID](https://discreteglobalgrids.org/software/)
+
+![isea3h5](https://github.com/rdmpage/rdf-discrete-global-grid-systems/raw/master/images/grid.jpg)
+
+[dggridR: Discrete Global Grids](https://CRAN.R-project.org/package=dggridR)
+
 [Geoscience Australia rHealPIX version of DGGS](https://github.com/GeoscienceAustralia/AusPIX_DGGS)
+
+[H3: A Hexagonal Hierarchical Geospatial Indexing System](https://github.com/uber/h3)
 
 
 ## Identifiers
@@ -37,7 +45,7 @@ Adams, B. (2016). Wāhi, a discrete global grid gazetteer built using linked ope
 
 [geogrid.js](https://github.com/giscience/geogrid.js)
 
-![Overview](https://github.com/rdmpage/rdf-discrete-global-grid-systems/blob/master/images/screenshot.jpg)
+![Overview](https://github.com/rdmpage/rdf-discrete-global-grid-systems/raw/master/images/screenshot.jpg)
 
 
 
