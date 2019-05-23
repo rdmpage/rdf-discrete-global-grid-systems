@@ -2,6 +2,8 @@
 
 Notes on discrete global grid systems, identifiers, and RDF.
 
+One way to handle geospatial data in RDF is to bin point data into cells of a discrete global grid system (DGGS), and have unique identifiers for each cell in the grid. For example, Adams (2016) describes Wāhi which has URLs like http://dg3.cer.auckland.ac.nz/isea3h/11.25_58.2825/7/cell/1001 (server doesn’t seem to be working right now). Mocnik (2018) proposes a different identifier scheme that encodes cell coordinates in the identifier, which then helps displaying the cells (given the identifier we can retrieve the cell).
+
 ## DGGS
 
 SNYDER, J. P. (1992). An Equal-Area Map Projection For Polyhedral Globes. Cartographica: The International Journal for Geographic Information and Geovisualization, 29(1), 10–21. [doi:10.3138/27h7-8k88-4882-1752](https://doi.org/10.3138/27h7-8k88-4882-1752)
