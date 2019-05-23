@@ -39,6 +39,9 @@ Searching Wikipedia geographically http://www.frankenplace.com
 
 Adams, B., McKenzie, G., & Gahegan, M. (2015). Frankenplace. Proceedings of the 24th International Conference on World Wide Web - WWW  ’15. [doi:10.1145/2736277.2741137](https://doi.org/10.1145/2736277.2741137)
 
+![Overview](https://github.com/rdmpage/rdf-discrete-global-grid-systems/raw/master/images/frankenplace01.png)
+
+
 ### Wāhi, a discrete global grid gazetteer built using linked open data
 
 Adams, B. (2016). Wāhi, a discrete global grid gazetteer built using linked open data. International Journal of Digital Earth, 10(5), 490–503. [doi:10.1080/17538947.2016.1229819](https://doi.org/10.1080/17538947.2016.1229819)
