@@ -32,13 +32,11 @@ while (!feof($file_handle))
 	// We've got one page
 	if (preg_match('/<\/Placemark>/', $line))
 	{
-		// process
-		
+		// process		
 		$geo = new stdclass;
 		$geo->type = "Feature";
 		$geo->properties = new stdclass;
-		$geo->geometry = new stdclass;
-		
+		$geo->geometry = new stdclass;		
 		
 		$name = '';
 		$coordinates = '';
@@ -89,10 +87,13 @@ while (!feof($file_handle))
 			}
 		}		
 		
-		//print_r($geo);
 		
 		echo json_encode($geo);
 		echo "\n";
+		
+		// MySQL
+		
+		
 
 		if ($geo->properties->name == '10')
 		{
