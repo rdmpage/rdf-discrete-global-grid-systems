@@ -52,7 +52,11 @@ Adams, B. (2016). Wāhi, a discrete global grid gazetteer built using linked ope
 
 ![Overview](https://github.com/rdmpage/rdf-discrete-global-grid-systems/raw/master/images/screenshot.jpg)
 
+### H3: Uber’s Hexagonal Hierarchical Spatial Index
 
+See [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/).
+
+![Overview]((https://github.com/rdmpage/rdf-discrete-global-grid-systems/raw/master/images/Twitter-H3.png)
 
 
 
